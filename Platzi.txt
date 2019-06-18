@@ -55,3 +55,5 @@ sujetos a cambio por medio del comando git chekout
 
 Segundo parte de los cambios del 18 de junio.
 
+Tercera parte de los cambios del 18 de junio.
+

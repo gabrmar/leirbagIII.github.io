@@ -53,3 +53,5 @@ sujetos a cmabios por medio del comando git checkout.
 18 de junio de 2019: Primeros cambios del 18 de junio. Ellos estarán 
 sujetos a cambio por medio del comando git chekout
 
+Segundo parte de los cambios del 18 de junio.
+

@@ -59,4 +59,8 @@ Tercera parte de los cambios del 18 de junio.
 
 27 de junio de 2019: Primeros cambios del 27 de junio de 2019.
 
+Cambios en la nueva rama: El 27 de junio se creó una nueva rama llamada 
+rama_2. En ella se realizó éste párrafo y será posteriormente unido al 
+archivo Platzi.txt de la rama master. 
+
 

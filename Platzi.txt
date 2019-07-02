@@ -63,4 +63,4 @@ Cambios en la nueva rama: El 27 de junio se creó una nueva rama llamada
 rama_2. En ella se realizó éste párrafo y será posteriormente unido al 
 archivo Platzi.txt de la rama master. 
 
-
+2 de julio de 2019: Se realizó la fusión de  rama_2 con master.

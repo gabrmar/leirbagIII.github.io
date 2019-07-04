@@ -66,6 +66,12 @@ archivo Platzi.txt de la rama master.
 2 de julio de 2019: Se realizó la fusión de  rama_2 con master.
 
 4 de julio de 2019: Modificaciones hechas desde master para ser 
+<<<<<<< HEAD
 fusionadas posteriormente por medio de merge con la rama_2. 
 
 Segunda parte de los cambios del 4 de julio hechas desde master.
+=======
+fusionadas posteriormente por medio de merge con la rama_2.
+
+Segunda parte de los cambios del 4 de julio hecho desde la rama_2 
+>>>>>>> rama_2

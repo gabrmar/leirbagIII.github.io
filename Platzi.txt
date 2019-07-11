@@ -77,3 +77,5 @@ descargar los cambios antes de trabajar en cualquie repositorio local.
 
 10 de julio de 2019: Cambios realizados desde el 
 computador de mi casa. Cambios que serán subidos a GitHub.
+
+11 de julio de 2019: Cambios realizados desde mi cuenta de GitHub.

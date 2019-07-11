@@ -1,0 +1,76 @@
+﻿Mi nombre es Gabriel Martínez. Estoy  realizandoe ste documento de 
+texto 
+para poder seguir practicando tanto el uso de los comandos de Linux así 
+como aprender a usar Git Y GitHub En enterno Windows, Descargando Git 
+Bash, así coomo en Linux.
+
+
+21 de mayo de 2019: Estoy realizando este cambio para poder ver si se 
+observan los cambios en el repositorio repo_April.
+
+22 de mayo de 2019: Realizando pruebas editanto el archivo usando nano
+probando el comando Git Show.
+
+29 de mayo de 2019: El gato de Andrea se estaba ganando una familia 
+nueva. Afortunadamente para él, logró cazar un ratón pequeño y Óscar se 
+puso muy contento. Estoy probando el comando Git Show.
+
+Modificaciones extras del 29 de mayo del 2019. Ya entiendo cómo funciona 
+el comando git show. Permite mostrar los cambios realizados en un 
+archivo de texto, sin emabrgo, parece sólo puede mostrar los cambios más 
+recientes. Todo esto seguirá en exploración y sujeto a cambios.
+
+31 de mayo de 2019: Estoy realizando modificaciones que voy a enviar sin 
+un mensaje en el commit lo cual hará que la consola me dirija a 
+ecribirlo por consola.
+
+Cambios extras del 31 de mayo.
+
+4 de junio de 2019: Retomamos las clases de Platzi luego de un fin de 
+semana y un lunes festivo. El martes no se realizó la clase como se 
+esperaba, sin embargo vi un video de la clase de Git sin practicar  
+
+10 de junio de 2019: Se borraron todos los cambios realizados el 5 de 
+junio por medio del comando git reset y su respectivo número de 
+registro.
+
+12 de junio de 2019: Primeros cambios del 12 de junio. Este cambio se 
+está haciendo para  tener commits con los cuales seguir estudiando el 
+git rest.
+
+13 de junio de 2019: Primeros cambios del 13 de junio de 2019. Este 
+cambio se realizó luego de hacer git reset y borrar los segundos cambios 
+del 12 de junio.
+
+14 de junio de 2019: Primeros cmabios del 14 de junio. Git diff sin 
+parámetros se utiliza para mostrar la diferencia entre el directorio de 
+trabajo (disco duro) y lo que existe en repositorio (o staging). Aún no 
+se sabe si es el uno o el otro. Pendiente por confirmar.
+
+17 de junio de 2019: Primeros cambios del 17 de junio. Ellos estarán 
+sujetos a cmabios por medio del comando git checkout.
+
+18 de junio de 2019: Primeros cambios del 18 de junio. Ellos estarán 
+sujetos a cambio por medio del comando git chekout
+
+Segundo parte de los cambios del 18 de junio.
+
+Tercera parte de los cambios del 18 de junio.
+
+27 de junio de 2019: Primeros cambios del 27 de junio de 2019.
+
+Cambios en la nueva rama: El 27 de junio se creó una nueva rama llamada 
+rama_2. En ella se realizó éste párrafo y será posteriormente unido al 
+archivo Platzi.txt de la rama master. 
+
+2 de julio de 2019: Se realizó la fusión de  rama_2 con master.
+
+4 de julio de 2019: Modificaciones hechas desde master para ser 
+fusionadas posteriormente por medio de merge con la rama_2.
+
+Segunda parte de los cambios del 4 de julio hecho desde la rama_2. 
+
+Tercera parte de los cambios del 4 de julio hecho desde la rama master.
+    
+8 de julio de 2019: Cambios realizados desde GitHub. Es importante
+descargar los cambios antes de trabajar en cualquie repositorio local.

@@ -1,0 +1,9 @@
+Este es otro texto. Se creó para aprender más sobre el comando cat de 
+Linux.
+28 de mayo de 2018: Se puede abrir Visual Studio Code utilizando
+la temrinal de Git Bash. Basta con utilizar el comando Code.
+Si se desea abrir un archvo en específico, se usa code "Nombre del archivo".
+
+31 de mayo: Es extraño. Aún no entiendo bien cómo funciona Git show y 
+cuál es la diferencia entre Git Show y Git Log. Agrego éstas 
+modificaciones como prueba. 

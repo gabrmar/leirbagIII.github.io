@@ -73,13 +73,9 @@ Segunda parte de los cambios del 4 de julio hecho desde la rama_2.
 Tercera parte de los cambios del 4 de julio hecho desde la rama master.
     
 8 de julio de 2019: Cambios realizados desde GitHub. Es importante
-<<<<<<< HEAD
-descargar los cambios antes de trabajar en cualquie repositorio local.
-=======
 descargar los cambios antes de trabajar en cualquie repositorio local.
 
 10 de julio de 2019: Cambios realizados desde el 
 computador de mi casa. Cambios que serán subidos a GitHub.
 
 11 de julio de 2019: Cambios realizados desde mi cuenta de GitHub.
->>>>>>> 8044ff9b24222d5a673b84b3312b583644619d37

@@ -79,3 +79,5 @@ descargar los cambios antes de trabajar en cualquie repositorio local.
 computador de mi casa. Cambios que serán subidos a GitHub.
 
 11 de julio de 2019: Cambios realizados desde mi cuenta de GitHub.
+
+15 de julio de 2019: Cambios realizados desde computador de Proximotec.

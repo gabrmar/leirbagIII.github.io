@@ -74,3 +74,5 @@ Tercera parte de los cambios del 4 de julio hecho desde la rama master.
     
 8 de julio de 2019: Cambios realizados desde GitHub. Es importante
 descargar los cambios antes de trabajar en cualquie repositorio local.
+
+15 julio de 2019: Primeros cambios realizados el 15 de julio.

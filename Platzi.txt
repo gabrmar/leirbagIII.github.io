@@ -81,3 +81,6 @@ computador de mi casa. Cambios que serán subidos a GitHub.
 11 de julio de 2019: Cambios realizados desde mi cuenta de GitHub.
 
 15 de julio de 2019: Cambios realizados desde computador de Proximotec.
+
+24 de julio de 2019: Modificaciones realizadas desde el primer 
+colaborador agregado a proyecto de Clase Platzi.

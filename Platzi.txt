@@ -71,7 +71,6 @@ archivo Platzi.txt de la rama master.
 4 de julio de 2019: Modificaciones hechas desde master para ser 
 fusionadas posteriormente por medio de merge con la rama_2.
 
-<<<<<<< HEAD
 Segunda parte de los cambios del 4 de julio hecho desde la rama_2. 
 
 Tercera parte de los cambios del 4 de julio hecho desde la rama master.
@@ -85,8 +84,6 @@ computador de mi casa. Cambios que serán subidos a GitHub.
 11 de julio de 2019: Cambios realizados desde mi cuenta de GitHub.
 
 15 de julio de 2019: Cambios realizados desde computador de Proximotec.
-=======
 Segunda parte de los cambios del 4 de julio hecho desde la rama_2 
 
 25 de julio: Título del archivo hecho desde rama_2
->>>>>>> rama_2

@@ -1,4 +1,7 @@
-﻿Mi nombre es Gabriel Martínez. Estoy  realizandoe ste documento de 
+﻿--------------------------Clase de Platzi-------------------------------
+By Gabriel Martínez Llano
+
+Mi nombre es Gabriel Martínez. Estoy  realizandoe ste documento de 
 texto 
 para poder seguir practicando tanto el uso de los comandos de Linux así 
 como aprender a usar Git Y GitHub En enterno Windows, Descargando Git 
@@ -69,3 +72,5 @@ archivo Platzi.txt de la rama master.
 fusionadas posteriormente por medio de merge con la rama_2.
 
 Segunda parte de los cambios del 4 de julio hecho desde la rama_2 
+
+25 de julio: Título del archivo hecho desde rama_2

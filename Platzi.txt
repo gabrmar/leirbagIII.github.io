@@ -86,4 +86,8 @@ computador de mi casa. Cambios que serán subidos a GitHub.
 15 de julio de 2019: Cambios realizados desde computador de Proximotec.
 Segunda parte de los cambios del 4 de julio hecho desde la rama_2 
 
+24 de julio de 2019: Modificaciones realizadas desde el primer 
+colaborador agregado a proyecto de Clase Platzi.
+
 25 de julio: Título del archivo hecho desde rama_2
+

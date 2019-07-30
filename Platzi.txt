@@ -93,7 +93,7 @@ colaborador agregado a proyecto de Clase Platzi.
 
 25 de julio de 2019: Agregado título de pie de página desde rama_3.
 
-30 de julio de 2019: primeros cambios del 30 de julio realizado desde
+30 de julio de 2019:Primeros cambios del 30 de julio realizado desde
 la rama master.
 
 Segunda parte de los cambios del 30 de julio los cuales fueron 

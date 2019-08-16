@@ -100,5 +100,6 @@ Segunda parte de los cambios del 30 de julio los cuales fueron
 realizados desde la rama fix. Nota:Se realizaron correcciones 
 ortográficas en los primeros cambios.
 
+16 de agosto: Cambios en master
 
 .-.-.-.-.-.--.-.-.-.-.-.-.THE END.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-

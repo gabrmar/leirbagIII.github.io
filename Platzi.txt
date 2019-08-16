@@ -110,5 +110,8 @@ Segunda parte de los cambios realizados desde la rama de prueba para ser
 transportados a master por medio de git rebase.
 
 Más cambios del 16 de agosto hechos desde la rama master.
+
+Más cambios del 16 de agosto hechos desde la rama prueba. Serán 
+fusionados a la rama master por medio del rebase.
  
 .-.-.-.-.-.--.-.-.-.-.-.-.THE END.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-

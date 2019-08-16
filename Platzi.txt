@@ -102,6 +102,12 @@ ortográficas en los primeros cambios.
 
 16 de agosto: Cambios en master
 
+
+
+
+
+
+
 16 de agosto de 2019: Cmabios realizados desde la rama de prueba que 
 será luego introducidos en la rama master por medio del git rebase al 
 copiar los commits de esta rama hacia master.

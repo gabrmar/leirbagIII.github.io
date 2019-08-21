@@ -126,6 +126,12 @@ Cambios para probar que el enlace del remoto fue editado correctamente.
 Segunda parte de modificaciones del 21 de agosto.
 
 Tercera parte de modificaciones del 21 de agosto.
+
+cuarta parte de las modificaciones del 21 de agosto. Ésta vez es para la
+prueba del git commit --ammend. Agregamos dos modificaciones en un mismo 
+commit.
+
+
  
 .-.-.-.-.-.--.-.-.-.-.-.-.THE END.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-
 

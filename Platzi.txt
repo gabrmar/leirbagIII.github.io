@@ -128,10 +128,10 @@ Segunda parte de modificaciones del 21 de agosto.
 Tercera parte de modificaciones del 21 de agosto.
 
 cuarta parte de las modificaciones del 21 de agosto. Ésta vez es para la
-prueba del git commit --ammend. Agregamos dos modificaciones en un mismo 
+prueba del git commit --amend. Agregamos dos modificaciones en un mismo 
 commit.
 
-
- 
+Quinta parte de las modificaciones del 21 de agosto continuando con las
+pruebas para el git amend.
 .-.-.-.-.-.--.-.-.-.-.-.-.THE END.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-
 

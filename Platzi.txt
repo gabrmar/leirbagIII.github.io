@@ -113,5 +113,10 @@ Más cambios del 16 de agosto hechos desde la rama master.
 
 Más cambios del 16 de agosto hechos desde la rama prueba. Serán 
 fusionados a la rama master por medio del rebase.
+
+
+
+
+Cambios para probar que el enlace del remoto fue editado correctamente.
  
 .-.-.-.-.-.--.-.-.-.-.-.-.THE END.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-

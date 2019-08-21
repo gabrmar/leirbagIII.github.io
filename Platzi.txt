@@ -112,11 +112,15 @@ transportados a master por medio de git rebase.
 Más cambios del 16 de agosto hechos desde la rama master.
 
 Más cambios del 16 de agosto hechos desde la rama prueba. Serán 
-fusionados a la rama master por medio del rebase.
-
-
-
+fusionados a la rama master por medio del rebase.<<<<<<< HEAD
 
 Cambios para probar que el enlace del remoto fue editado correctamente.
+
+Cambios extras hechos desde el computador de mi casa. Servirán para
+pruebas del Git Stash. 
+
+Cambios para probar que el enlace del remoto fue editado correctamente.
+
+21 de agosto de 2019: Cambios para el apredizaje del git cherry-pick.
  
 .-.-.-.-.-.--.-.-.-.-.-.-.THE END.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-

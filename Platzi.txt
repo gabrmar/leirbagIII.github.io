@@ -133,5 +133,7 @@ commit.
 
 Quinta parte de las modificaciones del 21 de agosto continuando con las
 pruebas para el git amend.
+
+Sexta parte de las modificaciones del 21 de agosto.
 .-.-.-.-.-.--.-.-.-.-.-.-.THE END.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-
 

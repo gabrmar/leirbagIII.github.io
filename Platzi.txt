@@ -122,5 +122,7 @@ Cambios para probar que el enlace del remoto fue editado correctamente.
 
 21 de agosto de 2019: Cambios para el apredizaje del git cherry-pick.
 
+Segunda parte de modificaciones del 21 de agosto.
  
 .-.-.-.-.-.--.-.-.-.-.-.-.THE END.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-
+

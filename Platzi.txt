@@ -117,4 +117,10 @@ fusionados a la rama master por medio del rebase.
 
 Cambios extras hechos desde el computador de mi casa. Servirán para
 pruebas del Git Stash. 
+
+Cambios para probar que el enlace del remoto fue editado correctamente.
+
+21 de agosto de 2019: Cambios para el apredizaje del git cherry-pick.
+
+ 
 .-.-.-.-.-.--.-.-.-.-.-.-.THE END.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-
